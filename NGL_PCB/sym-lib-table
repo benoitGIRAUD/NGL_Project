@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 74HC4052D_652)(type Legacy)(uri "${KIPRJMOD}/Librairie NGL_PCB/74HC4052D_652/74HC4052D_652.lib")(options "")(descr ""))
+  (lib (name 74HC4066D_653)(type Legacy)(uri "${KIPRJMOD}/Librairie NGL_PCB/74HC4066D_653/74HC4066D_653.lib")(options "")(descr ""))
+)
